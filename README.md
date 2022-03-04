@@ -10,7 +10,7 @@ Vamos criar um **e-commerce**, para a *empresa X* e blablabla
 
 __Melhoria 1__, _melhoria 2_.
 
-*** Linguagens do projeto ***
+### Linguagens do projeto 
 
 * HTML
 * CSS
