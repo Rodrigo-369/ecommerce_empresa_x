@@ -26,3 +26,8 @@ __Melhoria 1__, _melhoria 2_.
     3. CSS diferente para grupo de cliente
 2. Integração com outro pagamentos
 3. Sistema de bônus primeira compra
+
+
+### Imagem:
+
+![Logotipo do PHP](img/new-php-logo.svg)
