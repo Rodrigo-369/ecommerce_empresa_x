@@ -28,6 +28,10 @@ __Melhoria 1__, _melhoria 2_.
 3. Sistema de bônus primeira compra
 
 
-### Imagem:
+### Imagem local:
 
 ![Logotipo do PHP](img/new-php-logo.svg)
+
+
+### Imagem externa:
+![Logotipo do Laravel](https://anthoncode.com/wp-content/uploads/2019/01/laravel-logo-png.png)
