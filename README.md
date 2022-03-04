@@ -43,3 +43,5 @@ __Melhoria 1__, _melhoria 2_.
 [Google](https://www.google.com.br)
 
 Contribuidor principal: https://github.com/Rodricx
+
+[![Logotipo do Symfony](https://symfony.com/logos/symfony_black_02.png)](https://symfony.com/)
