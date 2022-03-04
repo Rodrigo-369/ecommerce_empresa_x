@@ -45,3 +45,13 @@ __Melhoria 1__, _melhoria 2_.
 Contribuidor principal: https://github.com/Rodricx
 
 [![Logotipo do Symfony](https://symfony.com/logos/symfony_black_02.png)](https://symfony.com/)
+
+
+## Código da função soma
+
+``` JavaScript
+
+function soma(a, b){
+    return a + b;
+}
+```
